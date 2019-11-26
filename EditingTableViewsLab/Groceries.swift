@@ -22,10 +22,6 @@ struct GroceryItem {
         GroceryItem(name: "Water"),
         GroceryItem(name: "Tomatoes"),
         GroceryItem(name: "Potatoes"),
-
 ]
-    
-
- 
 }
 
